@@ -19,4 +19,4 @@ function solution(A) {
     }
     return i;
 }
-console.log(solution([-1, -2, 1, 2, 3]))
+console.log(solution([-1, -2, 1, 2, 2, 2, 3, 3, 3]))

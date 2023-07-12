@@ -1,0 +1,110 @@
+
+Summary:
+I’m looking for a new software engineering role based in Portland, OR, or remote-friendly.
+My experience is full stack, lately mostly PHP backends, and some javascript in the frontend. More recently, Node.js. I’m always open and willing to learn new technologies.
+I prefer working in a startup environment and at companies with an impactful mission.
+
+Experience:
+Senior Software Engineer
+SmugMug
+Mar 2018 - Sep 2022 (4 years 7 months)
+► Tax Modernization:
+As SmugMug grows internationally, not knowing how much tax to charge in a transaction often means you can not defer or split the tax with the buyer, and the company assumes all of it. Adding new countries or adapting to tax law changes in existing markets currently takes significant time and effort, affecting our ability to expand and succeed in new regions. I was part of a small multidisciplinary team tasked with modernizing and improving tax collection throughout our product. (*)
+► Several Price Improvements (increases) throughout the years:
+Changing plan prices for new and existing subscribers in our in-house recurring bill system was challenging. Our billing system uses a Deterministic Finite State Machine to handle all possible states, including expired credit cards, declined transactions, suspended or terminated accounts, and reactivated accounts. The process got refined and improved on every iteration. The last price improvement project only required a couple of weeks of my time, and the team finished the rest successfully and on time.
+► Digital assets.
+Part of a small group tasked with proposing a viable and more robust architecture to store and manage billions of media files and their associated metadata. It resulted in an abstraction of media (images and videos) as digital assets composed of metadata (i.e., EXIF, tags/keywords, labels, ratings, groupings, etc..) and related files (JPG, RAW, Sidecar, etc..).
+► Tax Library as a PHP composer package
+I worked with two more engineers building a PHP SDK composer package making Avalara AvaTax API V2 functionality available to our platforms through a familiar and easy-to-use interface.
+► Video Content Rendering System (VCR)
+Part of a two-engineer effort to improve rendering videos in our pipeline by optimizing how we use AWS's video rendering providers ETS (Elastic Transcoder) and MediaConvert. The last numbers indicated a monthly savings of ~$15K in the AWS video rendering bill.
+
+Software Engineer
+Flickr
+Feb 2019 - Jan 2021 (2 years) ► Flickr's Thorn Integration
+After being acquired by SmugMug in 2019, I was one of the engineers that lent a hand in accomplishing the impossible task of cutting all ties between Flickr and Yahoo/Oath/Verizon services in ~12 months.
+I was the lead engineer on a project building a system to "properly" handle child abuse-related media (CSAM).
+To detect CSAM, we leveraged Safer, a technology developed by Thorn that scans the media, compares the results against previously cataloged and known CSAM, and, if needed, reports it to NCMEC. We also enhanced and added some moderation capabilities and created a system to securely archive and share the content with the proper authorities. (PHP, AWS/SQS, AWS Lambda, Safer from Thorn, MySQL).
+
+Sorcerer (Software Engineer)
+SmugMug
+Aug 2015 - Mar 2020 (4 years 8 months)
+After relocating from California to Oregon, I continued to work full-time but remotely:
+► Intercom Integration:
+We built a "feeder system" to keep our user's marketing data in intercom synchronized with our production systems supporting marketing and product teams in delivering standout onboarding experiences using accurate data to build quick feedback loops.
+► LPA (Login and Pay With Amazon) integration:
+Integrated this new payment provider for subscriptions and renewals. Built to work synchronously, with an asynchronous fallback process in case of failure.
+
+Sorcerer (Software Engineer)
+SmugMug
+Feb 2011 - Aug 2015 (4 years 7 months)
+I started as a Full Stack Engineer, comfortable working with PHP on the backend and JavaScript on the frontend. Worked on several projects during this time, including:
+► Media Picker:
+It was around 2014 when SmugMug had a significant redesign, and a piece of it, "the picker," landed on my plate. We can describe it as a view where you can see and navigate through thumbnails of images from a particular gallery or folder and select them to perform specific actions.
+90% of the "Picker" was a mix of YUI 2&3 (javascript), and the remaining 10% was PHP on the backend. As of June 2022, it remains the way SmugMug's UI allows users to navigate and pick images from their node structure.
+► Buyer & Seller Currency:
+I worked on adding the ability for visitors worldwide to purchase our customer's products in currencies other than USD. Another project followed to enable our Pro customers to price their products locally or in other currencies. (PHP, JavaScript, YUI, l10n, i18n)
+► Image Positions:
+You can have images in galleries automatically sorted by name or the date or manually sorted by an absolute position inside the gallery. Keeping the manual sort consistent while dragging and dropping images around was buggy and needed fixing. It was a MySql store with billions of rows and business logic in PHP.
+
+Technical Yahoo (Senior Software Engineer)
+Yahoo
+Jul 2009 - Jan 2011 (1 year 7 months)
+• Member of the Localization (L10N) platform team. Currently acting as Scrum Master (and active developer) of a team of several engineers developing and maintaining a scalable and highly available application using Java/PHP/Perl/DHTML/Oracle in a web-service-oriented architecture. ALL Yahoo! Global products use this platform.
+• Project manager (and developer) successfully migrated a couple of hundred projects from an old localization tool (Perl and MySQL) into the new localization platform. The migration was made in a record time of 10 months exceeding, by far, all expectations.
+
+Technical Yahoo (Software Applications Engineer)
+Yahoo
+Sep 2005 - Jul 2009 (3 years 11 months)
+• The International Tiger Team's primary purpose was to help teams enable their products to be internationalized and localized. Here are some of the projects I got to participate in during my tenure on the team:
+• Worked with the Yahoo! Buzz, and Yahoo! Maps teams in the internationalization and localization of their applications. It allowed them to deploy simultaneously in multiple markets.
+• Collaborated with the "Glue" team, developing the next generation of web search. I was in charge of designing, developing, and deploying the storage system using MySQL, Memcached, and PHP.
+• Development of a customer care tool to manage Yahoo! User's core identity (username, aliases, gender, age, location, and profile photos). Used PHP, CoreID webservice, JavaScript, and Y.U.I. libraries.
+• Carried out the migration and redesign of Yahoo! News Search for 35 international markets and 18 languages. Used PHP, PERL, and JavaScript.
+• In charge of creating a customized Yahoo! Version of Internet Explorer 7 for 40 international markets in 21 languages. Also, implementing the landing pages where users could download it and get support.
+• Developed a Firefox plugin that provided a Drag&Drop interface to upload media files using XUL and JavaScript.
+• Helped with the Internationalization of Yahoo! 360 and with its deployment in 14 international markets.
+
+Technical Yahoo (Software Applications Engineer)
+Yahoo
+Nov 2000 - Sep 2005 (4 years 11 months)
+• Contributor in designing, redesigning, and implementing Yahoo! Latin American verticals: News, Sports, Entertainment, Music, Finance, Movies, Autos, Weather, Home Page, Travel, Yahooligans, Buzz Index Tool, Inside Matches, Full Coverage, and few others.
+• Worked hand in hand with the marketing and product teams Implementing tens of promo sites, multiple floating ads for the Yahoo Home Pages across Latin America, and several content integration deals with AFP, FoxSports, and La Vox.
+• Supporting and maintaining the Yahoo! Latin American Content Management System (C.M.S.). MySQL, XML parsing/generation, programming in PHP, PERL, JavaScript, and shell.
+
+Senior Internet Programmer
+Mindsare Design
+Nov 1999 - Nov 2000 (1 year 1 month)
+• Develop and support the following Internet and Intranet Applications
+o Philips Semiconductors. Enhancing a current intranet application that automates the Purchase Requisition System for Computers, Peripherals and other office products.
+o Recycling and Composting Program of the County of San Mateo. Analysis, design and development of the RecycleWorks (www.recycleworks.org) Internet application. Application used PERL, HTML and Javascript connecting to a MySQL database. The web server was Apache running on FreeBSD.
+o FORTEL. Enhancing the shopping cart on an Internet application for their products visualroute (www.visualroute.com) and visualpulse (www.visualpulse.com). Application used PERL, HTML and Javascript. Stored data in the client using cookies. The web server was Apache running on FreeBSD.
+• Member of the PostMaster General development and support team. Maintaining the application and the servers. Support with customers via email and telephone.
+• System Administrator for the Hosting Services Department. All servers running FreeBSD.
+
+Co-Founder
+Imagine SAS
+Jan 1996 - Nov 1999 (3 years 11 months)
+• Founder of one of the first Internet companies in Colombia.
+• Analysis, design, and development of Internet/Intranet applications. • Sysadmin of web, FTP, and mail servers.
+• Analysis, design, and development of control software to monitor/control access using external devices (card readers, RFID, ...). Used Borland’s Delphi Pascal.
+
+National Expert
+ICBF
+Nov 1992 - Dec 1995 (3 years 2 months)
+Project manager and a key team member that helped this national government institution modernize its computer infrastructure and information systems.
+
+Education:
+Universidad Autonoma de Manizales
+Systems Enginner , Software
+1985 - 1992
+Final Project: CASE (Computer Aided Software Engineering) and Prototyping Tool for JSD (Jackson Systems Development) methodology developed in Small Talk V (Pure Object Oriented Programming). It scored the highest grade.
+
+Licenses & Certifications:
+Serverless and Microservices for AWS - LinkedIn
+Node.js: Microservices - LinkedIn
+Advanced Node.js - LinkedIn
+Advanced Node.js: Scaling Applications - LinkedIn Web Security: OAuth and OpenID Connect - LinkedIn
+
+Skills:
+REST APIs • Information Technology • Entrepreneurship • Engineering Start-up • Content Management Systems (CMS) • Internationalization • Currency • Large Scale Systems • Software • Technology
